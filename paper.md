@@ -14,3 +14,11 @@ My favourite country ranking depends on the animals that live in it.
 *koalas
 *kangaroos
 *funnel web spiders
+
+# My Favourite Swiss Animals
+
+*dahu
+
+# My Favourite Italian Animals
+
+*wolf
